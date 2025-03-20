@@ -8,10 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Databases\" />
-    <Folder Include="Entities\" />
-    <Folder Include="Contexts\" />
     <Folder Include="Interfaces\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>
